@@ -8,42 +8,29 @@
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
 National park lodging is so popular such that we need to query so often to check the availability in order to make an reservation. This project automates the querying process. As long as you code in the arrival date, departure date, number of adults, number of kids and the interested lodges, the program will access the web server, fill in the itinerary information and submit the search just like you do it yourself. The search result will appear shortly.
 
 ## Screenshots
-![First Popped Up Window](./img/screenshot.png)
+![First Popped Up Window](KCFrom.JPG)
+![Second Popped Up Window](KCTo.JPG)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Python - version 3.7
+* Selenium - version 3.141
+* Chrome WebDriver - version 79.0.3945.36
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+Install Windows Anacodna3 Spyder, Selenium package, Chrome WebDriver. Load and run this program.
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Launch the querying program every certain period of time and email the results if available.
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
+Project is:  _finished_ and can be enriched by completing the to-do list
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@Shelly Li](igloooligm@gmail.com) - feel free to contact me!
