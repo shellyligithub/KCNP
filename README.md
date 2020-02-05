@@ -33,4 +33,4 @@ To-do list:
 Project is:  _finished_ and can be enriched by completing the to-do list
 
 ## Contact
-Created by [@Shelly Li](igloooligm@gmail.com) - feel free to contact me!
+Created by [Shelly Li] - feel free to contact me!
