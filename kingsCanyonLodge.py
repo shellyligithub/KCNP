@@ -26,7 +26,7 @@ print('6 Bearpaw High Sierra Camp')
 #hotel = hotelList[int(hotelID)-1]
 hotel = hotelList[0]
 print('your hotel selection is: ' + hotel)
-monthYear = 'NOVEMBER 2019'
+monthYear = 'MAY 2020'
 dayStart = '28'
 dayEnd = '29'
 kidNum = 2
